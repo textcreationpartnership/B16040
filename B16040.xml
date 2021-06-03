@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarltons iests Drawne into these three parts. 1 His court-wittie iests 2 His sound cittie iests. 3 His country prettie iests. Full of delight, wit, and honest myrth.</title>
+         </titleStmt>
+         <extent>Approx. 58KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16040</idno><idno type="EEBO-CITATION">99842605</idno>
+  <idno type="VID">176783</idno>
+  <idno type="EEBO-PROQUEST">2248567929</idno>
+  <idno type="STC">STC 23683.3</idno>
+  <idno type="STC">ESTC S106896</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842605e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 671:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tarltons iests Drawne into these three parts. 1 His court-wittie iests 2 His sound cittie iests. 3 His country prettie iests. Full of delight, wit, and honest myrth.</title>
+                  <author>Tarlton, Richard, d. 1588, attributed name.</author>
+               </titleStmt>
+               <extent>[32+] leaves   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Thomas Snodham] for Iohn Budge, and are to be sold at his shop, at the great South doore of Paules,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>With woodcut title vignette.</note>
+                  <note>"More or less fictitious anecdotes, many of them far older than Tarlton, who probably was in no way responsible for the work"--Folger Shakespeare Library catalogue.</note>
+                  <note>In this edition, C2r line 5 from bottom has: Globe on the Bancke side.</note>
+                  <note>Identified as STC 23684b on UMI microfilm reel 671..</note>
+                  <note>Signatures: A-D⁴+.</note>
+                  <note>Imperfect; all after D4 lacking; title page torn; some print show-through.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176783:1"/>
+            <p>Tarltons Iests.</p>
+            <p>Drawne into these three parts.</p>
+            <list>
+               <item>1 His Court-wittie Iests</item>
+               <item>2 His sound Cittie Iests.</item>
+               <item>3 His Country prettie Iests.</item>
+            </list>
+            <p>Full of Delight, Wit, and honest Myrth.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Budge,</hi> and are to be sold at his shop, at the great South doore of Paules. 1613.</p>
+         </div>
+      </front>
+      <body>
+         <div type="jests">
+            <pb facs="tcp:176783:2"/>
+            <pb facs="tcp:176783:2"/>
+            <head>Tarltons <hi>Court wittie Iests</hi>
+            </head>
+            <div type="jest">
+               <head>
+                  <hi>Tarlton</hi> plaid the Drunkard before the Queene.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Quéene being discontented: which <hi>Tarlton</hi> perceiuing, tooke vp<g ref="char:EOLhyphen"/>on him to delight her with some quaint Iest, whereupon he counter<g ref="char:EOLhyphen"/>faited a Drunkard, and calling for Béere, which was brought imme<g ref="char:EOLhyphen"/>diately: Her Maiestie noting his humor, commanded that he should haue no more, for quoth she, he will play the beast, and so shame himselfe. Feare not you quoth <hi>Tarlton,</hi> for your Béere is small enough. Whereat her Maiestie laughed heartily, and commanded that hee should haue enough.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> deceiued the Watch in Fleetstreet.</head>
+               <p>
+                  <hi>TArlton</hi> hauing beene late at the Court, and comming homewards through Fléetstréet, hée espyed the watch, not knowing how to passe them, went very fast, thinking by that meanes to goe vnexamined: but the Watch-men perceiuing that he shunned them, stept to him, and com<g ref="char:EOLhyphen"/>manded him (in the Quéens name) to stand. Stand, quoth <hi>Tarlton,</hi> let them stand that can, for I cannot: so falling downe as though he had béene drunke, they helpt him vp, and so let him passe.</p>
+            </div>
+            <div type="jest">
+               <pb facs="tcp:176783:3"/>
+               <head>How <hi>Tarlton</hi> flouted a Lady in the Court.</head>
+               <p>VPon a time, <hi>Tarlton</hi> being among certaine Ladies at a banquet which was at Gréenwitch, the Quéene then lying there, one of the Ladies had her face full of pimples with heate at her stomacke, for which cause she refused to drinke wine amongst the rest of the Ladies, which <hi>Tarlton</hi> perceiuing (for he was there of purpose to iest amongst thē) quoth hee, a murren of that face which makes all the body fare the worse for it. At which the rest of the Ladies laught, and she blushing for shame left the banquet.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> opinion of Oysters.</head>
+               <p>CErtaine Noblemen and Ladies of the Court, being ea<g ref="char:EOLhyphen"/>ting of Oysters, one of them séeing <hi>Tarlton,</hi> called him, and asked if he loued Oysters: No quoth <hi>Tarlton,</hi> for they be vngodly meat, vncharitable meat, &amp; vnprofitable meate: why? quoth the Courtiers: they are vngodly, because they are eaten without Grace: vncharitable, because they leaue nought but shels: and vnprofitable, because they must swim in wine.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> resolution of a question.</head>
+               <p>ONe of the company taking the Gentlemans part, as<g ref="char:EOLhyphen"/>ked Tarlton at what time he thought the Deuill to be most busied? When the Pope dyes quoth he: why? sayes the Courtier: Marry (answered he) then all the Diuels are troubled and busied to plague him, for he hath sent many a soules before him thither, that exclaime against him.</p>
+            </div>
+            <div type="jest">
+               <head>How a Parsonage fell into <hi>Tarltons</hi> hands.</head>
+               <p>HEr Maiesty dining in the Strand at the Lord Treasu<g ref="char:EOLhyphen"/>rers, the Lords were very desirous that she would
+<pb facs="tcp:176783:3"/> vouchsafe to stay all night, but nothing could preuaile with her: <hi>Tarlton</hi> was in his Clownes apparell, being all din<g ref="char:EOLhyphen"/>ner while in the presence with her, to make her merry, and hearing the sorrow that the Noblemen made that they could not worke her stay, he asked the Nobles what they would giue him to worke her stay: the Lords promised him any thing, to performe it: quoth hee, procure me the Parsonage of Shard. They caused the Patent to be drawne presently, he got on a Parsons gowne, and a corner cap, and standing vpon the staires where the Quéene should descend, he repea<g ref="char:EOLhyphen"/>ted these words: a Parson or no Parson? a Parson or no Parson? but after she knew his meaning, she not onely stay<g ref="char:EOLhyphen"/>ed all night, but the next day willed he should haue posses<g ref="char:EOLhyphen"/>sion of the benefice: a madder Parson was neuer, for hee threatned to turne the Bel-mettel into lyning for his purse, which hee did, the Parsonage and all, into ready money.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> proued two Gentlewomen dishonest by their owne words.</head>
+               <p>
+                  <hi>TArlton</hi> séeing in Gréenwitch two Gentlewomen in the Garden together, to moue myrth, comes to them, and enquires thus: Gentlewomen, which of you two is the ho<g ref="char:EOLhyphen"/>nester? I, saies the one, I hope without exceptions: and I quoth the other, since we must speake for our selues: so then saies <hi>Tarlton,</hi> one of you by your owne words is dishonest, one being honester then the other, else you would answere otherwise: but as I found you, so I leaue you.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> answered a wanton Gentlewoman.</head>
+               <p>
+                  <hi>A</hi> Gentlewoman merily disposed, being crost by <hi>Tarlton,</hi> &amp; halfe angry, said, sirra▪ a little thing would make me requite you with a cuffe: with a cuffe Lady, sayes <hi>Tarlton,</hi> so would you spel my sorrow forward, but spell my sorrow backward, then cuffe me and spare not: when the Gentle<g ref="char:EOLhyphen"/>men
+<pb facs="tcp:176783:4"/> by, considered of the Word, their laughing made the simple-meaning Gentlewoman to blush for shame.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> dared a Lady.</head>
+               <p>AT the dinner in the great Chamber where <hi>Tarlton</hi> iested, the Ladies were daring one another: quoth one I euer durst any thing that is honest and honourable: a French crowne of that, sayes Tarlton: ten pound of that sayes the Lady: done sayes one, done sayes another. Tarlton put a two-pence betwixt his lips, and dared her to take it away with her lips. Fye saies she, that is immode<g ref="char:EOLhyphen"/>stie. What, tokisse saies Tarlton? then immodesty beares a great hand ouer all: but once in your life say, you haue béene beaten at your owne weapon. Well sir, saies she, you may say any thing. Then sayes <hi>Tarlton,</hi> remember I say you dare not, and so my wager is good.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> landed at Cuckolds hauen.</head>
+               <p>
+                  <hi>TArlton</hi> being one Sunday at Court all day, caused a payre of Oares to tend him, who at night called on him to be gone: <hi>Tarlton</hi> being a carousing, drunke so long to the Watermen, that one of them was bumpsie, and so indéed were all thrée for the most part: at last they left Gréenwitch, the Tide being at a great low fall, the Watermen yet af<g ref="char:EOLhyphen"/>fraid of the crosse Cables by the Lime-house: very darke and late as it was, landed <hi>Tarlton</hi> at Cuckolds-hauen, and said the next day they would giue him a reason for it: But <hi>Tarlton</hi> was faine to goe by land to Reddriffe on the durty banke, euery step knée déepe: so that comming home, hee called one of his boyes to helpe him off with his boots, mea<g ref="char:EOLhyphen"/>ning his stockings, which were dyed of another colour. Whereupon one gaue him this Theame next day.</p>
+               <lg>
+                  <l>
+                     <hi>Tarlton</hi> tell me, for faine would I know,</l>
+                  <l>If thou wert landed at Culckolds-hauen or no?</l>
+               </lg>
+               <pb facs="tcp:176783:4"/>
+               <p>
+                  <hi>Tarlton</hi> answered thus:</p>
+               <lg>
+                  <l>Yes Sir, and I tak't in no scorne,</l>
+                  <l>For many land there, yet misse of the horne.</l>
+               </lg>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> fought with Blacke <hi>Dauie,</hi>
+               </head>
+               <p>NOt long since liued a little swaggerer, called blacke <hi>Da<g ref="char:EOLhyphen"/>uie,</hi> who would at Sword and Buckler fight with any gentleman or other, for 12. pence: he being hired to draw vpon <hi>Tarlton,</hi> for breaking a iest vpon huffin <hi>Kate,</hi> a puncke as men tearmed her: one euening <hi>Tarlton</hi> comming forth at the Court-gate, being at Whitehal, and walking toward the Tilt-yard, this <hi>Dauie</hi> immediatly drew vpon <hi>Tarlton:</hi> who on the sudden, though amazed, drew likewise, and in<g ref="char:EOLhyphen"/>quired the cause, which <hi>Dauie</hi> denied, till they had fought a<g ref="char:EOLunhyphen"/>bout or two: <hi>Tarlton</hi> couragiously got within him, and ta<g ref="char:EOLhyphen"/>king him in his armes, threw him into the Tilt-yard, who falling vpon his nose, broke it extreamely, that euer after he snuffled in the head; poore <hi>Dauie</hi> lying all that night in the Tilt-yard, expecting the doores to be opened, came forth, and at the Barber▪ surgeons told of this bloody combat, and the occasion of it was (quoth hee) because <hi>Tarlton</hi> being in a Tauerne in the companie of this damnable Cockatrice huf<g ref="char:EOLhyphen"/>fing <hi>Kate,</hi> called for wine: but she told him that without he would burne it, she would not drinke. No quoth <hi>Tarlton,</hi> it shal be burnt, for thou canst burn it without fire: as how sir? (quoth she) marry thus, take the Cup in thine hand &amp; I will tell thée: So he filling the cup in her hand, said it was burnt sufficiently in so fiery a place: she perceiuing her selfe so flou<g ref="char:EOLhyphen"/>ted, hyred me to be her Champion to reuenge her quarrell.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> answered the Watchmen comming from the Court.</head>
+               <p>
+                  <hi>TArlton</hi> hauing plaied before the Quéen, till one a clock at midnight, comming homewards, one of them espied
+<pb facs="tcp:176783:5"/> him, calling him, sirra, what art thou? a woman, sayes <hi>Tarlton:</hi> nay that is lie, saith the Watchmen, women haue no such beards: <hi>Tarlton</hi> replied, if I should haue said a man, that you know to be true, and would haue bidden mee tell you that you know not, therefore I sayd a Woman, and so I am all woman, hauing pleased the Quéene, being a Wo<g ref="char:EOLhyphen"/>man: Well sirra sayes another, I present the Quéene: then am I a woman indéed saies <hi>Tarlton</hi> as well as you, for you haue a beard as well as I, and truly Mistris Annis, my buske is not done yet, when will yours? leaue thy gybing fellow, saith the Watch; the Quéens will is that whosoeuer is taken without doores after ten a clocke, shall be commit<g ref="char:EOLhyphen"/>ted, and now it is past one: commit all such sayes <hi>Tarlton,</hi> for if it be past one a clocke, it will not be ten this eight houres: with that one lifts vp his Lanthorne, and looks him in the face, and knew him: indéed M. <hi>Tarlton</hi> you haue more wit then all we, for it is true that ten was before one, but now one is before ten, it is true quoth <hi>Tarlton,</hi> Watch<g ref="char:EOLhyphen"/>men had wont to haue more wit, but for want of sléepe they are turned fooles: so <hi>Tarlton</hi> stole from them, and they to séeme wise went home to bed.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> answere to a Courtier.</head>
+               <p>
+                  <hi>TArlton</hi> being at the Court all night, in the morning he met a great Courtier comming from his Chamber, who espying <hi>Tarlton,</hi> said: Good morrow Master <hi>Didimus</hi> and <hi>Tridimus: Tarlton</hi> being somewhat abashed, not know<g ref="char:EOLhyphen"/>ing the meaning thereof, sayd: Sir, I vnderstand you not, expound I pray you: quoth the Courtier <hi>Didimus</hi> and <hi>Tri<g ref="char:EOLhyphen"/>dimus,</hi> is a foole and a knaue: you ouer-load me replyed <hi>Tarlton,</hi> for my backe cannot beare both, therefore take you the one, and I will take the other: take you the knaue, and I will carry the foole with me.</p>
+            </div>
+            <div type="jest">
+               <pb facs="tcp:176783:5"/>
+               <head>
+                  <hi>Tarltons</hi> quipe for a yong Courtier.</head>
+               <p>THere was a yong Gentleman in the Court, that had first lyen with the Mother, and after with the Daugh<g ref="char:EOLhyphen"/>ter, and hauing so done, asked <hi>Tarlton</hi> what it resembled: quoth he, as if you should first haue eaten the Hen, and af<g ref="char:EOLhyphen"/>ter the Chicken.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> answere to a Noblemans question.</head>
+               <p>THere was a Nobleman that asked <hi>Tarlton</hi> what he thought of Souldiers in time of peace? Marry quoth he, they are like Chimneyes in Summer.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> Iest to an vnthriftie Courtier.</head>
+               <p>THere was an vnthriftie Gallant belonging to the Court that had borrowed fiue pounds of <hi>Tarlton,</hi> but hauing lost it at Dice, hee sent his man to <hi>Tarlton</hi> to borrow fiue pounds more, by the same token he owed him already fiue pounds: pray tell your Master, quoth <hi>Tarlton,</hi> that if he will send me the token, I will send him the money: for who de<g ref="char:EOLhyphen"/>ceiues me once, God forgiue him: If twice, God forgiue him: but if thrice, God forgiue him, but not me, because I could not beware.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> flouted two Gallants.</head>
+               <p>
+                  <hi>TArlton</hi> being in a mery vaine, as he walked in the great Hall in Gréenwitch, he met my old Lord Chamberlain, going betwéene two fantasticke gallants, &amp; cryed aloud vnto him, my Lord, my Lord, you goe in great danger: whereat amazed, hee askt whereof: of drowning (quoth <hi>Tarlton</hi>) were it not for those two bladders vnder ech of your armes.</p>
+            </div>
+         </div>
+         <div type="jests">
+            <pb facs="tcp:176783:6"/>
+            <head>Tarltons <hi>sound Cittie Iests.</hi>
+            </head>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> Iest of a red face.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>O an Ordinary in the White Friers, where Gen<g ref="char:EOLhyphen"/>tlemen vsed, by reason of extraordinarie dyet, to this <hi>Tarlton</hi> often frequented, as well to continue acquaintance, as to please his appetite: it chanced so vpon a time (especially) being set amongst the Gentlemen and Gallants, they enquired of him why melancholy had got the vpper-hand of his mirth, to which he said little, but with a squint eie, as custom had made him hare▪ eied, he lookt for a Iest to make them merry; at last he espyed one that sate on his left side, which had a very red face, hee being a very great Gentleman (which was all one to <hi>Tarlton</hi>) he present<g ref="char:EOLhyphen"/>ly in great hast called his Hoast: who do I serue my Hoast? quoth <hi>Tarlton,</hi> the Quéenes Maiestie, replied the good man of the house: how happens it then quoth <hi>Tarlton,</hi> that to her Maiesties disgrace, you dare make me a companion with Seruingmen, clapping my Lord <hi>Shandoyes</hi> Cullisance vp<g ref="char:EOLhyphen"/>on my sléeue, looking at the Gentleman with the red face, me thinks quoth he, it sits like the Sarazens head without Newgate: the Gentlemans Salamanders face burnt▪ like <hi>Aetna</hi> for anger, the rest laughed heartily: in the end all in<g ref="char:EOLhyphen"/>raged, the Gentleman swore to fight with him at the next méeting.</p>
+            </div>
+            <div type="jest">
+               <head>A sodaine and dangerous fray, twixt a Gentleman and <hi>Tarlton,</hi> which he put off with a Iest.</head>
+               <p>AS <hi>Tarlton</hi> &amp; others passed along Fléestréet, hee espied a spruce yong gallant, blacke of complexion, with long haire hanging downe ouer his eares, and his beard of the
+<pb facs="tcp:176783:6"/> Italian cut, in white Satten, very quaintly cut, and his body so stiffe starcht, that he could not bend himselfe any way for no gold: <hi>Tarlton,</hi> séeing such a wonder comming, trips before him, and méeting this gallant tooke the wall of him, knowing that one so proud, at least looked for the pre<g ref="char:EOLhyphen"/>rogatiue. The gallant scorning that a Player should take the wall, or so much indignifie him, turnes himselfe, and pre<g ref="char:EOLhyphen"/>sently drew his Rapier, <hi>Tarlton</hi> drew likewise: The Gen<g ref="char:EOLhyphen"/>tleman fell to it roundly, but <hi>Tarlton</hi> in his owne defence, compassing and trauersing his ground, gaped with a wide mouth, whereat the people laughed: the Gentleman pau<g ref="char:EOLhyphen"/>sing, enquired why he gaped so? O Sir saies he, in hope to swallow you, for by my troth, you séeme to me like a prune in a Mesle of white Broth: at this the people parted them, the Gentleman noting his mad humour, went his way well contented, for he knew not how to amend it.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> Iest of a Pippin.</head>
+               <p>AT the Bull in Bishopsgate stréet, where the Quéenes Plaiers oftentimes played: <hi>Tarlton</hi> comming on the Stage, one from the Gallerie threw a Pippin at him, <hi>Tarl<g ref="char:EOLhyphen"/>ton</hi> tooke vp the Pip, &amp; looking on it made this sodaine iest.</p>
+               <lg>
+                  <l>Pip in or nose in, chuse you whether,</l>
+                  <l>Put yours in, ere I put in the other:</l>
+                  <l>Pippin you haue put in, then for my grace,</l>
+                  <l>Would I might put your nose in another place.</l>
+               </lg>
+            </div>
+            <div type="jest">
+               <head>A Iest of an Apple hitting <hi>Tarlton</hi> on the face.</head>
+               <p>
+                  <hi>TArlton</hi> hauing flouted the fellow for his Pippin which he threw, he thought to be méet with <hi>Tarlton</hi> at length, so in the Play <hi>Tarltons</hi> part was to trauell, who knéeling downe to aske his Father blessing: the fellow threwe an Apple at him, which hit him on the chéeke: <hi>Tarlton</hi> taking vp the Apple made this Iest.</p>
+               <lg>
+                  <pb facs="tcp:176783:7"/>
+                  <l>Gentlemen, this fellow with his face of Mapple.</l>
+                  <l>In stead of a Pippin hath throwne me an Apple:</l>
+                  <l>But as for an Apple he hath cast a Crab,</l>
+                  <l>So in stead of an honest woman God hath sent him a Drab.</l>
+               </lg>
+               <p>The people laughed heartily, for he had a Queane to his Wife.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> and one in the Gallerie fell out.</head>
+               <p>IT chanced that in the midst of a Play, after long expecta<g ref="char:EOLhyphen"/>tion for <hi>Tarlton,</hi> (being much desired of the people) at length he came forth: where at his entrance, one in the gal<g ref="char:EOLhyphen"/>lerie pointed his finger at him, saying to a friend that had neuer séene him, that is he: <hi>Tarlton</hi> to make sport at the least occasion giuen him, and séeing the man point with one fin<g ref="char:EOLhyphen"/>ger, he in loue againe held vp two fingers: the captious fel<g ref="char:EOLhyphen"/>low iealous of his wife (for he was maried) and because a Player did it, tooke the matter more hainously, and askt him why hee made Hornes at him: No quoth <hi>Tarlton,</hi> they be fingers:</p>
+               <lg>
+                  <l>For there is no man which in loue to mee</l>
+                  <l>Lends me one finger, but he shall haue three.</l>
+               </lg>
+               <p>No, no, sayes the fellow, you gaue me the hornes: true saies <hi>Tarlton,</hi> for my fingers are tipt with nailes which are like hornes, and I must make a shew of that which you are sure of: this matter grew so, that the more he medled, the more it was for his disgrace: wherefore the standers by coun<g ref="char:EOLhyphen"/>selled him to depart, both he and his hornes, lest his cause grew desperate: so the poore fellow plucking his Hat ouer his eyes, went his wayes.</p>
+            </div>
+            <div type="jest">
+               <head>How Fiddlers fidled away <hi>Tarltons</hi> apparell.</head>
+               <p>IT chanced that one <hi>Fancie</hi> and <hi>Nancie,</hi> a Musition in London, vsed often with their Boyes to visite <hi>Tarlton,</hi> when he dwelt in Gracious-stréet, at the signe of the Saba,
+<pb facs="tcp:176783:7"/> a Tauern▪ he being one of their best friends or benefactors, by reason of old acquaintance: to requite which, they came one summers morning to play him the Hunts' vp with such Musicke as they had: <hi>Tarlton,</hi> to requite them would open his Chamber doore, and for their paines would giue them Muskadine: which a Cony-catcher noting, and séeing <hi>Tarl<g ref="char:EOLhyphen"/>ton</hi> come foorth in his shirt and night-gowne to drinke with these Musitions, the while this nimble fellow stept in, and tooke <hi>Tarltons</hi> apparell which euery day he wore, thin<g ref="char:EOLhyphen"/>king that if he were espied to turne it to a iest, but it past for currant and he goes his waies: Not long after <hi>Tarlton</hi> re<g ref="char:EOLhyphen"/>turned to his Chamber, and looked for his clothes, but they were safe enough from him. The next day this was noy<g ref="char:EOLhyphen"/>sed abroad, and one in the mockage threw him this Theam, he playing then at the Curtaine.</p>
+               <lg>
+                  <l>
+                     <hi>Tarlton</hi> I will tell thee a iest,</l>
+                  <l>Which after turned to earnest:</l>
+                  <l>One there was as I heard say,</l>
+                  <l>Who in his shirt heard Musicke play,</l>
+                  <l>While all his clothes were stolne away.</l>
+               </lg>
+               <p>
+                  <hi>Tarlton</hi> smiling at this, answered on the sudden thus:</p>
+               <lg>
+                  <l>That's certaine, Sir, it is no lye,</l>
+                  <l>That same one in truth was I:</l>
+                  <l>When that the theefe shall pine and lacke,</l>
+                  <l>Then shall I haue cloathes to my backe:</l>
+                  <l>And I together with my fellowes,</l>
+                  <l>May see him ride to <hi>Tiburne</hi> Gallowes.</l>
+               </lg>
+            </div>
+            <div type="jest">
+               <head>Of <hi>Tarlton</hi> and a Begger.</head>
+               <p>THere was a poore Begger (but a conceited fellow) who séeing <hi>Tarlton</hi> at his doore, askt somthing of him for gods cause. <hi>Tarlton</hi> putting his hand in his pocket, gaue him two pence in stead of a peny, at which <hi>Tarlton</hi> made this Rime:</p>
+               <lg>
+                  <pb facs="tcp:176783:8"/>
+                  <l>Of all other Beggers most happy thou art,</l>
+                  <l>For to thee my hand is better then my heart.</l>
+               </lg>
+               <p>Quoth the Begger.</p>
+               <lg>
+                  <l>True it is Master, as it chanceth now,</l>
+                  <l>The better for me, and the worse for you.</l>
+               </lg>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> deceiued a Doctor of Phisicke.</head>
+               <p>
+                  <hi>TArlton</hi> to satisfie the humors of certaine Gentlemen, his familiar acquaintance, went about for to try the skill of a simple Doctor of Phisicke, that dwelt not farre from I slington, and thus it was: hee tooke a faire Vrinall, and filled it halfe full of good wine, and bore it to this doctor, saying, it was a sicke mans water: who viewed it and tos<g ref="char:EOLhyphen"/>sing it vp and downe, as though he had great knowledge: quoth he, the patient whose water it is, is full of grosse hu<g ref="char:EOLhyphen"/>mors, and hath néed of purging, and to be let some ten oun<g ref="char:EOLhyphen"/>ces of bloud. No you Dunce replyed <hi>Tarlton,</hi> it is good pisse, and with that drunke it off, and threw the Vrinall at his head.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> frighted a Country fellow.</head>
+               <p>
+                  <hi>TArlton</hi> passing through London, by chance hee heard a simple Country fellow in an Ale-house, calling for a Kingstone pot of Ale, stept into him and threatned to accuse him of treason, saying: Sirra, I haue séene and tasted of a penny pot of Ale, and haue found good of the price, but of a Kingstone coine I neuer heard, therefore it is some coun<g ref="char:EOLhyphen"/>terfait, and I must know how thou camest by it: hereupon the Countrey fellow was driuen into such a maze, that out of doores he got, and tooke him to his héeles, as though wild<g ref="char:EOLhyphen"/>fire had followed him.</p>
+            </div>
+            <div type="jest">
+               <pb facs="tcp:176783:8"/>
+               <head>How <hi>Tarlton</hi> was deceiued by his wife in London.</head>
+               <p>
+                  <hi>TArlton</hi> being merrily disposed, as his wife and he sate together, he said vnto her, <hi>Kate</hi> answere me to one que<g ref="char:EOLhyphen"/>stion without a lye, and take this crowne of gold: which she tooke on condition, that if she lost, to restore it backe againe. Quoth <hi>Tarlton,</hi> am I a Cuckold or no <hi>Kate?</hi> Whereat she answered not a word, but stood silent: notwithstanding he vrged her many waies: <hi>Tarlton</hi> séeing she would not speak, askt his gold againe: why quoth she, haue I made any lye? no sayes <hi>Tarlton:</hi> why then goodman foole I haue won the wager: <hi>Tarlton</hi> mad with anger, made this Rime:</p>
+               <lg>
+                  <l>As women in speech can reuile a man,</l>
+                  <l>So can they in silence beguile a man.</l>
+               </lg>
+            </div>
+            <div type="jest">
+               <head>One askt <hi>Tarlton</hi> what Countrey man the Diuell was.</head>
+               <p>IN Carter-lane dwelt a mery Cobler, who being in com<g ref="char:EOLhyphen"/>pany with <hi>Tarlton,</hi> askt him what Countrey man the di<g ref="char:EOLhyphen"/>uell was: quoth <hi>Tarlton,</hi> a Spaniard; for Spaniards like the Diuell, trouble the whole world.</p>
+            </div>
+            <div type="jest">
+               <head>A Cheese-mongers question to <hi>Tarlton.</hi>
+               </head>
+               <p>IN the time of Scarsitie, a simple Chéesemonger hearing <hi>Tarlton</hi> commended for his quick wit, came vnto him, and asked him why he thought Chéese and Butter to be so déere: <hi>Tarlton</hi> answered, because Wood and Coles are so déere, for Butter and Chéese a man may eate without a fire.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> answere to a rich Londiner.</head>
+               <p>
+                  <hi>TArlton</hi> méeting a rich Londiner, fell into talke about the Bishop of Peterborough, highly praising▪ his bounty
+<pb facs="tcp:176783:9"/> to his seruants, his liberalitie to strangers, his great Hos<g ref="char:EOLhyphen"/>pitalitie and Charitie to the poore. He doth well sayes the rich man, for what he hath is his but during his life. Why quoth <hi>Tarlton,</hi> for how many liues haue you your goods?</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> gaue away his dinner.</head>
+               <p>AS <hi>Tarlton</hi> and his wife sate at dinner, his wife being displeased with him, and thinking to crosse him, shee gaue away halfe of his meat vnto a poore Beggar, saying, take this for my other husbands sake. Whereupon <hi>Tarlton</hi> tooke all that was left, and likewise bad the poore fellow to pray for his other wifes soule.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> answere to a Boy in Rime.</head>
+               <p>THere was a crackrope Boy, méeting <hi>Tarlton</hi> in London stréet, sung this rime vnto <hi>Tarlton.</hi>
+               </p>
+               <lg>
+                  <l>Woe worth thee <hi>Tarlton,</hi>
+                  </l>
+                  <l>That euer thou wast borne:</l>
+                  <l>Thy wife hath made thee Cuckold,</l>
+                  <l>And thou must weare the horne.</l>
+               </lg>
+               <p>
+                  <hi>Tarlton</hi> presently answered him in Extemporie.</p>
+               <lg>
+                  <l>What and if I be (Boy)</l>
+                  <l>I am nere the worse:</l>
+                  <l>Shee keepes me like a Gentleman,</l>
+                  <l>With money in my purse.</l>
+               </lg>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> bid himselfe to dinner to my Lord Mayors.</head>
+               <p>A Iest came in <hi>Tarltons</hi> head where to dine, and thought he, in all that a man does, let him ayme at the fairest,
+<pb facs="tcp:176783:9"/> for sure if. I bid my selfe any where this day, it shall be to my Lord Maiors: and vpon this, goes to the Counter and entred his action against my Lord Maior, who was present<g ref="char:EOLhyphen"/>ly told of it, and sends for him. <hi>Tarlton</hi> waits dinner time, and then comes, who was admitted presently. Master <hi>Tarlton,</hi> sayes my Lord Maior, haue you entred an action against me in the Poultry Counter? My Lord, sayes <hi>Tarl<g ref="char:EOLhyphen"/>ton,</hi> haue you entred an action against me in Woodstréet Counter? Not I in troth, saies my Lord. No saies <hi>Tarlton,</hi> he was a villaine that told me so then: but if it be not so, for<g ref="char:EOLhyphen"/>giue me this fault my Lord, and I will neuer offend in the next: but in the end he begins to sweare, how he will bee reuenged on him that mockt him, and flings out in a rage, But my Lord sayd, stay M. <hi>Tarlton,</hi> dine with me, and no doubt but after dinner you will be better minded. I will try that my Lord, saies <hi>Tarlton,</hi> and if it alter mine anger, both mine enemie &amp; I will thanke you together for this curtesie.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> Iest of a box on the eare.</head>
+               <p>ONe that fell out with his friend, méets him in the stréet, and calling him into a corner, gaue him a boxe on the eare, and feld him, getting him gone, and neuer told wherefore he did so: which <hi>Tarlton</hi> beholding, raised vp the fellow, and askt him the reason of their suddaine falling out? can you tell Sir said the fellow, for by my troth as yet I cannot? Well said <hi>Tarlton,</hi> the more foole you, for had I such féeling of the cause, my wit would remember the in<g ref="char:EOLhyphen"/>iurie, but many men are goslings, the more they féele the lesse they conceiue.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> Iest to two Taylors.</head>
+               <p>
+                  <hi>TArlton</hi> méeting two Tailors (friends of his) in the eue<g ref="char:EOLhyphen"/>ning, in mirth cryes, who goes there? A man answered a Taylor: How many is there? one: Yea said <hi>Tarlton,</hi> two said the other Taylor: then you say true, said <hi>Tarlton:</hi> for
+<pb facs="tcp:176783:10"/> two Taylors goes to a man. But before they parted, they foxt <hi>Tarlton,</hi> at the Castle in Paternoster Row, that <hi>Tarlton</hi> confest them two Taylors to be honest men: so what they spent in the purse they got in the person: comming but one by <hi>Tarltons</hi> account, they returned two: but <hi>Tarlton</hi> com<g ref="char:EOLhyphen"/>ming one, returned lesse by his wit, for that was shrunk in the whetting.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> iested at his wife.</head>
+               <p>
+                  <hi>TArlton</hi> and his wife keeping an Ordinarie in Pater<g ref="char:EOLhyphen"/>noster Row, was bidden out to Supper, and because he was a man noted, she would not goe with him in the street, but intreats him to kéepe one side and she another, which he consented to: but as he went he would cry out to her and say, Turne that way wife, and anon on this side wife: so the people flockt the more to laugh at them, but his wife more then mad angry, goes backe againe, and almost forswore his company.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> committed a Rakers horse to Ward.</head>
+               <p>VVHen <hi>Tarlton</hi> dwelt in Gracious stréet, at a Ta<g ref="char:EOLhyphen"/>uerne at the signe of the <hi>Saba,</hi> he was chosen Sca<g ref="char:EOLhyphen"/>uenger: and often the Ward complained of his slacknes in kéeping the stréets cleane: so on a time when the Cart came, he asked the Raker, why he did his businesse so slackly. Sir said he, my fore-horse was in the fault, who being let blood and drencht yesterday, I durst not labour him: sir said <hi>Tarl<g ref="char:EOLhyphen"/>ton,</hi> your horse shall smart for it, and so leads him to the Counter, which the Raker laught at, and without his horse did his worke with the rest, thinking <hi>Tarltons</hi> homor was to iest, and would returne him his horse againe anon: but when that anon came, he was faine to pay all his fées of the prison, as directly as if he himselfe had béene there: for if <hi>Tarlton</hi> had committed the master, the busines had not gone forward, therefore the horse was in prison for the Master.</p>
+            </div>
+            <div type="jest">
+               <pb facs="tcp:176783:10"/>
+               <head>How <hi>Tarlton</hi> made <hi>Armin</hi> his adopted sonne to succeed him.</head>
+               <p>
+                  <hi>TArlton</hi> kéeping a Tauerne in Gracious stréet, hee let it to another, who was indebted to <hi>Armins</hi> Master, a Gold smith in Lumbard stréet: yet he himselfe had a Chamber in the same house. And this <hi>Armin</hi> being then a wag came often thither to demaund his Masters money, which hee sometimes had, and sometimes had not: in the end the man growing poore, told the boy he had no money for his Master, and he must beare with him. The mans name being <hi>Char<g ref="char:EOLhyphen"/>les, Armin</hi> made this verse, writing it with chalke on a waine-scot:</p>
+               <lg>
+                  <l>O world how wilt thou lie, is this <hi>Charles</hi> the great? that I denie:</l>
+                  <l>Indeed <hi>Charles</hi> the great before,</l>
+                  <l>But now <hi>Charles</hi> the lesse, being poore.</l>
+               </lg>
+               <p>
+                  <hi>Tarlton</hi> comming into the roome reading it, and partly ac<g ref="char:EOLhyphen"/>quainted with the boyes humor, comming often thither for his M. money, tooke a piece of chalke, &amp; writ this rime by it.</p>
+               <lg>
+                  <l>A wag thou art, none can preuent thee,</l>
+                  <l>And thy desert shall content thee:</l>
+                  <l>Let me diuine, as I am, so in time thou'lt be the same.</l>
+                  <l>My adopted sonne therefore be,</l>
+                  <l>To enioy my Clownes suite after me.</l>
+               </lg>
+               <p>And sée how it fell out: the Boy reading this, so loued <hi>Tarl<g ref="char:EOLhyphen"/>ton</hi> after, that regarding him with more respect, vsed to his playes, and fell in a league with his humour, and priuate practise brought him to present playing, and at this houre performes the same, where at the Globe on the Bancke-side men may sée him.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> greeting with <hi>Bankes</hi> his horse.</head>
+               <p>THere was one <hi>Bankes</hi> (in the time of <hi>Tarlton</hi>) who ser<g ref="char:EOLhyphen"/>ued the Earle of Essex, &amp; had a horse of strange qualities:
+<pb facs="tcp:176783:11"/> and being at the Crosse-keyes in Gracious stréete, getting money with him (as he was mightily resorted to:) <hi>Tarlton</hi> then (with his fellowes) playing at the Bell by, came into the Crosse-keyes amongst many people) to sée fashions: which <hi>Bankes</hi> perceiuing (to make the people laugh) sayes Signior (to his Horse) goe fetch mee the veriest foole in the company, the Iade comes immediatly, and with his mouth drawes <hi>Tarlton</hi> forth: <hi>Tarlton</hi> with merry words said no<g ref="char:EOLhyphen"/>thing, but God a mercy Horse: in the end, <hi>Tarlton</hi> séeing the people laugh so, was angry inwardly, and said, Sir, had I power of your horse, as you haue, I would doe more then that. Where ere it be said <hi>Bankes</hi> (to please him) I will charge him to do it: then saies <hi>Tarlton,</hi> charge him to bring me the veriest whore-master in this company. He shall saies <hi>Bankes:</hi> Signior saies he, bring M. <hi>Tarlton</hi> heere the veriest Whoremaster in the company: the Horse leades his master to him: then God a mercy Horse indéed, sayes <hi>Tarlton:</hi> the people had much adoe to kéepe peace, but <hi>Bancks</hi> &amp; <hi>Tarlton</hi> had like to squarde, and the horse by to giue ayme: but euer after it was a by-word through London, God a mercy horse, and is to this day.</p>
+            </div>
+            <div type="jest">
+               <head>An excellent Iest of <hi>Tarlton</hi> suddenly spoken.</head>
+               <p>AT the Bull at Bishops-gate was a play of <hi>Henry</hi> the fift, wherein the Iudge was to take a boxe on the eare, and because he was absent that should take the blow: <hi>Tarl<g ref="char:EOLhyphen"/>ton</hi> himselfe (euer forward to please) tooke upon him to play the same Iudge, besides his owne part of the Clowne: and <hi>Knell</hi> then playing <hi>Henry</hi> the fift, hit <hi>Tarlton</hi> a sound boxe indéed, which made the people laugh the more, because it was he: but anone the Iudge goes in, &amp; immediatly <hi>Tarl<g ref="char:EOLhyphen"/>ton</hi> (in his Clownes clothes) comes out, and askes the Ac<g ref="char:EOLhyphen"/>tors what newes? O saith one, hadst thou béene here, thou shouldst haue séene Prince <hi>Henry</hi> hit the Iudge a terribly▪ boxe on the eare: What man, said <hi>Tarlton,</hi> strike a Iudge?
+<pb facs="tcp:176783:11"/> It is true y faith, said the other: no other like, said <hi>Tarlton,</hi> and it could not be but terrible to the Iudge, when the re<g ref="char:EOLhyphen"/>port so terrifies me, that me thinkes the blow remaines still on my chéeke, that it burnes againe. The people laught at this mightily, and to this day I haue heard it commended for rare: but no maruaile, for he had many of these. But I would sée our Clownes in these dayes doe the like, no I warrant ye, and yet they thinke well of themselues too.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> Iest with a Boy in the street.</head>
+               <p>A Wag-halter Boy met <hi>Tarlton</hi> in the stréet, and said: Master <hi>Tarlton</hi> who liues longest? Marry Boy, sayes <hi>Tarlton,</hi> he that dies latest: and why die men so fast, said the Boy? because they want breath, said <hi>Tarlton:</hi> no ra<g ref="char:EOLhyphen"/>ther said the Boy, because their time is come: then thy time is come, said <hi>Tarlton,</hi> sée who comes yonder: Who? said the Boy: Marry said <hi>Tarlton, Bull</hi> the hangman: or one that would willingly be thy hangman: Nay, hang me then, if I employ him at this time, said the Boy. Well said <hi>Tarlton,</hi> then thou wilt be hanged by thy owne confession, and so they parted.</p>
+            </div>
+            <div type="jest">
+               <head>A Iest of <hi>Tarlton,</hi> prouing Mustard to haue wit.</head>
+               <p>
+                  <hi>TArlton</hi> kéeping an Ordinarie in Pater-noster row, and sitting with Gentlemen to make them merry, would ap<g ref="char:EOLhyphen"/>proue Mustard, (standing before them) to haue wit: how so sayes one? It is like a witty skold, méeting another skold, knowing that skold will skold, begins to skold first, so saies he, the Mustard being lickt vp, and knowing that you will bite it, begins to bite you first: Ile trie that saies a Gull by, and the Mustard so tickled him, that his eyes watered: how now sayes <hi>Tarlton,</hi> does my Iest sauour? I, saies the Gull, and bite too: if you had had better wit, sayes <hi>Tarlton,</hi> you would haue bit first: so then conclude with me, that dumbe
+<pb facs="tcp:176783:12"/> vnféeling Mustard, hath more wit then a talking vnféeling foole as you are. Some were pleased and some were not, but all <hi>Tarltons</hi> care was taken (for his resolution was such euer) before he talkt any Iest.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> tooke Tobacco at the first comming vp of it.</head>
+               <p>
+                  <hi>TArlton</hi> (as other Gentlemen vsed) at the first comming vp of Tobacco, did take it more for fashions sake then otherwise, and being in a roome, set betwéene two men o<g ref="char:EOLhyphen"/>uercome with wine, and they neuer séeing the like, wondred at it, and séeing the vapour come out of <hi>Tarltons</hi> nose, cried out, fire, fire, and threw a cup of wine in <hi>Tarltons</hi> face: Make no more stirre quoth <hi>Tarlton,</hi> the fire is quenched, if the Sheriffes come it will turne to a fine, as the custome is. And drinking that againe, fie sayes the other, what a stincke it makes, I am almost poisoned: If it offend, sayes <hi>Tarlton,</hi> lets euery one take a little of the smell, and so the sauour will quickly goe: but To<g ref="char:EOLhyphen"/>bacco whiffes made them leaue him to pay all.</p>
+            </div>
+         </div>
+         <div type="jests">
+            <pb facs="tcp:176783:12"/>
+            <head>
+               <hi>Tarltons</hi> prettie Countrie Iests.</head>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> wit betweene a Bird and a Woodcocke.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N the Citie of Glocester, Master <hi>Bird</hi> of the Chappell met with <hi>Tarlton,</hi> who ioyfull to re<g ref="char:EOLhyphen"/>gréet other, went to visit his friends: amongst the rest, M. <hi>Bird</hi> of the Quéens Chappell visited Master <hi>Woodcock</hi> of the Colledge, where mée<g ref="char:EOLhyphen"/>ting, many frindly spéeches past, amongst which, M. <hi>Wood<g ref="char:EOLhyphen"/>cocke</hi> challenged M. <hi>Bird</hi> of kin: who mused that he was of his affinitie and hee neuer knew it: yes sayes M. <hi>Wood<g ref="char:EOLhyphen"/>cocke,</hi> euery Woodcocke is a Bird, therefore it must néeds be so. Lord, Sir, sayes <hi>Tarlton,</hi> you are wide, for though euery Woodcocke be a Bird, yet euery Bird is not a Wood<g ref="char:EOLhyphen"/>cocke. So M. <hi>Woodcocke</hi> like a Woodcocke bit his lip, and mum budged was silent.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> Iest of a Gridiron.</head>
+               <p>VVHile the Quéens Plaiers lay in Worcester Citie to get money, it was his custome oft to sing ex<g ref="char:EOLhyphen"/>tempory of Theams giuen him: amongst which they were appoynted to play the next day: now one fellow of the City amongst the rest, that séemed quaint of conceit, to lead other youths with his fine wit, gaue out that the next day hee would giue him a Theam, to put him to a <hi>non plus:</hi> diuers of his friends acquainted with the same, expected some rare conceit: Well, the next day came, and my gallant gaue him his inuention in two lines, which was this this:</p>
+               <lg>
+                  <l>Me thinkes it is a thing vnfit.</l>
+                  <l>To see a Gridiron turne the spit.</l>
+               </lg>
+               <pb facs="tcp:176783:13"/>
+               <p>The people laughed at this, thinking his wit knew no an<g ref="char:EOLhyphen"/>swere thereunto, which angered <hi>Tarlton</hi> excéedingly, and presently with a smile looking about, when they expected wonders, he put it off thus:</p>
+               <lg>
+                  <l>Me thinkes it is a thing vnfit,</l>
+                  <l>To see an Asse haue any wit.</l>
+               </lg>
+               <p>The people hooted for ioy, to sée the Theame-giuer dasht, who like a dog with his taile betwéene his legs, left the place: But such commendations <hi>Tarlton</hi> got, that hee supt with the Bailiffe that night, where my Theamer durst not come, although he were sent for, so much he vexed at that vnlookt▪ for answere.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> answere in defence of his flat nose.</head>
+               <p>
+                  <hi>I</hi> Remember I was once at a Play▪ in the Country, where as <hi>Tarltons</hi> vse was, the Play being done, euery one so pleased to throwe vp his Theame: amongst all the rest, one was read to this same effect, word by word.</p>
+               <lg>
+                  <l>
+                     <hi>Tarlton,</hi> I am one of thy friends, and none of thy foes,</l>
+                  <l>Then I prethee tell how thou cam'st by thy flat nose:</l>
+                  <l>Had I beene present at that time on those bankes,</l>
+                  <l>I would haue layd my short sword ouer his long shankes.</l>
+               </lg>
+               <p>
+                  <hi>Tarlton</hi> mad at this question, as it was his propertie soo<g ref="char:EOLhyphen"/>ner to take such a matter ill then well, very suddenly retur<g ref="char:EOLhyphen"/>ned him this answere:</p>
+               <lg>
+                  <l>Friend or foe, if thou wilt needs know, marke me well,</l>
+                  <l>With parting dogs &amp; beares, then by the ears, this chance fel:</l>
+                  <l>But what of that? though my nose be flat, my credit to saue,</l>
+                  <l>Yet very well, I can by the smell, scent an honest man from a knaue.</l>
+               </lg>
+            </div>
+            <div type="jest">
+               <pb facs="tcp:176783:13"/>
+               <head>
+                  <hi>Tarltons</hi> Iest of a Bristowman.</head>
+               <p>VVHen the Quéenes Players were restrained in Summer, they trauailed downe to S. <hi>Iames</hi> his Faire, at Bristowe, where they were worthily entertained both of Londoners, and those Citizens: it happened that a wealthy Citizen, called M. <hi>Sunbanke,</hi> one morning secretly married his Maid; but not so secret, but it was blowne a<g ref="char:EOLhyphen"/>broad: that morning, <hi>Tarlton</hi> and others, walking in the Faire to visit his familiar friends of London, and being in company of Bristow men, they did sée M. <hi>Sunbancke</hi> com<g ref="char:EOLhyphen"/>ming, who had this propertie with his necke, not to stirre it any way, but to turne body &amp; all: it chanced at the Faire end, he stood to pisse against a wall: to whom <hi>Tarlton</hi> came, and clapping him on the shoulder, God giue you ioy of your marriage, saies he: M. <hi>Sunbanke</hi> being taken pissing against the wall, would haue lookt backe to thanke him, and sud<g ref="char:EOLhyphen"/>dainly turnes about body and all, in the view of many, and shewed all: which so abasht him, that ashamed he tooke in<g ref="char:EOLhyphen"/>to a Tauerne, protesting that he had rather haue spent ten pound: sure sayd the Vintner, the fault is in your necke, who will not turne without the bodies assistance, and not in M. <hi>Tarlton:</hi> Call you him M. <hi>Tarlton,</hi> saies M. <hi>Sun<g ref="char:EOLhyphen"/>bancke?</hi> I Sir, saies the Vintner, he is the Quéens Iester: he may be whose Iester he will be, but this Iest agrées not with me at this time.</p>
+            </div>
+            <div type="jest">
+               <head>A Iest broken of <hi>Tarlton</hi> by a Country Gentleman.</head>
+               <p>IN the Country where the Quéens Players were accep<g ref="char:EOLhyphen"/>ted into a Gentlemans house: the Waggon vnloading of the apparell, the Waggoner comes to <hi>Tarlton,</hi> &amp; doth desire him to speake to the Steward for his horses: I will sayes he, and comming to the Steward, Sir, saies <hi>Tarlton,</hi> where shall our Horses spend the time? The Gentleman looking
+<pb facs="tcp:176783:14"/> at <hi>Tarlton</hi> at that question, suddenly answered, if it please you, or them, let them walke a turne or two: or there is a faire Garden, let them play a game or two at bowles in the Alley, and departs thence about his other businesse. <hi>Tarlton</hi> commending the suddaine wit of the steward, said little: but my Steward not quiet, tels to the Gentlewomen aboue, how he had driuen <hi>Tarlton</hi> to a <hi>nonplus</hi> with a iest: where<g ref="char:EOLhyphen"/>at they all did laugh heartily: which a Seruingman louing <hi>Tarlton</hi> well, came and told him as much. <hi>Tarlton</hi> to adde fuell to the fire, and loath to rest thus put off with a iest, goes and gets two of the horses into the Garden, and turns them into the Bowling Alley, who with their héeles made hauocke, being the Gentlemans only pastime: The Ladies aboue from a window, séeing horses in the Garden Alley, call the Knight, who cries out to <hi>Tarlton,</hi> Fellow, what meanest thou? nothing Sir, saies he, but two of my horses are at seuen vp, for a pecke of Prouender, a foolish match that I made: now they being in play at bowles, run, run: your steward may come after and crie rub, rub: at which, though they smiled, yet the steward had no thankes for his labour, to set the horses to such an exercise: and they could not blame <hi>Tarlton,</hi> who did but as he was bidden: but by this Iest Oats and Hay, stable-roome, and all, was plenty.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> made one of his company vtterly forsweare drunkennesse.</head>
+               <p>AT Salisbury <hi>Tarlton</hi> &amp; his fellowes were to play be<g ref="char:EOLhyphen"/>fore the Maior &amp; his brethren: but one of his company, a yong man was so drunke that he could not: whereat <hi>Tarl<g ref="char:EOLhyphen"/>ton</hi> as mad angry, as he was mad drunke, claps me on his legs a huge payre of boults: the fellow dead asléep felt no<g ref="char:EOLhyphen"/>thing: when all was done, they conuaied him to the Iayle on a mans backe, and intreated the Iayler to doe God good seruice, and let him lie there till he waked. While they were about their sport the fellow waked, and finding himselfe in durance, and the Iayle hung round with bolts and shakels,
+<pb facs="tcp:176783:14"/> he began to blesse himselfe, and thought sure in his drunken<g ref="char:EOLhyphen"/>nes he had done some mischiefe: with that he called to know, but none came to him, then he thought verely his fault was capitall, and that hee was close prisoner: by and by comes the Kéeper, and moaned him, that one so yong should come to so shamefull a death as hanging: anone, another comes, and another with the like, which further put him in a puzzle: but at last comes <hi>Tarlton</hi> and others, intreating the Kéeper, yet if it might be, that they might sée their fellow ere they went, but hee very hardly was intreated, but at length the poore drunken Signior cal'd out for them: in they come. Oh Tom, sayes <hi>Tarlton,</hi> hard was thy hap in drunkennesse to murder this honest man, and our hard hap too, to haue it re<g ref="char:EOLhyphen"/>ported any of our company is hangd for it. O God, O God saies the fellow, is my fault so great? then commend me to all my friends. Well, short tale to make, the fellow forswore drunkennesse if he could escape, and by as cunning a wile to his thinking, they got him out of prison by an escape, and sent him to London before, who was not a litle glad he was gone: but sée how this Iest wrought, by little and little the fellow left his excessiue drinking, and in timealtered his de<g ref="char:EOLhyphen"/>sire of drunkennesse.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> saued his head from cutting off.</head>
+               <p>
+                  <hi>TArlton</hi> vpon a time being in the Countrie, &amp; lodging in an homely Inne, during which time there was a gen<g ref="char:EOLhyphen"/>tleman dwelling in the same towne, somewhat frantick and distraught of his wits: which mad man on a suddaine rusht into <hi>Tarltons</hi> bed-chamber with his sword drawne, and fin<g ref="char:EOLhyphen"/>ding him there in bed, would haue slain him: saying, villain, were it not valiantly done to strike off thy knaues head at one blowe? <hi>Tarlton</hi> answered, tut sir, thats nothing with your worship to do, you can as easily strike off two heads at one blow as one: wherefore, if you please▪ Ile go downe and call vp another, and so you may strike off both our heads at once: the mad-man beleeued him, and so let him slip away.</p>
+            </div>
+            <div type="jest">
+               <pb facs="tcp:176783:15"/>
+               <head>How <hi>Tarlton</hi> escaped imprisonment.</head>
+               <p>
+                  <hi>TArlton</hi> hauing béene dominéering very late one Night, with two of his friends, and comming homewards a<g ref="char:EOLhyphen"/>long Cheapside, the watch being then set: Master Consta<g ref="char:EOLhyphen"/>ble asked, who goes there? thrée merry men, quoth <hi>Tarlton:</hi> that is not sufficient, what are you, quoth M. Constable? why saies <hi>Tarlton,</hi> one of vs is an eye-maker, and the other a light maker: what sayst thou knaue, doest mocke me? the one is an eye-maker, the other a light maker, which two pro<g ref="char:EOLhyphen"/>perties belong vnto God onely: commit these blasphemers quoth the Constable: Nay, I pray you good M. Constable be good in your Office, I will approue what I haue sayd to be true. If thou canst, sayes the Constable, you shall passe, otherwise you shall be all thrée punished. Why quoth <hi>Tarl<g ref="char:EOLhyphen"/>ton,</hi> this fellow is an eye-maker, because a Spectacle ma<g ref="char:EOLhyphen"/>ker, and this other a maker of light, because a Chandler, that makes your darkest night as light as your Lanthorne. The Constable séeing them so pleasant, was we'l contented, the rest of the Watchmen laughed, and <hi>Tarlton</hi> with his two companions went home quietly.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> deceiued a Countrey wench.</head>
+               <p>THe Quéenes Plaiers trauelling into the West country to play, and lodging in a little village, some ten miles from Bristow, in which village dwelt a pretty nut-browne Lasse▪ to whom <hi>Tarlton</hi> made proffer of marriage, prote<g ref="char:EOLhyphen"/>sting that he came from London, purposely to marry her: the simple Maide being proud, to be beloued by such a one, whom she knew to be the Quéenes man, without more in<g ref="char:EOLhyphen"/>treaty yéelded, &amp; being both at the Church together, and M. Parson ready to performe his dutie, and comming to the words of I Richard take thée Ioane: nay, stay good Master Parson, I will goe and call my fellowes, and come to you
+<pb facs="tcp:176783:15"/> againe: so going out of the Church in haste, returned at leisure; for hauing his horse ready sadled, hee rode toward Bristow, and by the way told his fellowes▪ of his successe with his wench.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> went to kill Crowes.</head>
+               <p>IT chanced vpon a time, as <hi>Tarlton</hi> went foorth with a birding péece into the fields to kill Crowes, hée espied a Daw sitting in a Trée, at which he meant to shoot; but at the same instant, there came one by, to whom he spake in this manner: Sir, quoth he, yonder I sée a Daw, which I will shoot at if shée sit: if shée sit, said the other, then she is a Daw indéed: but quoth <hi>Tarlton,</hi> if she sit not, what is she then? Marry quoth the other, a Daw also: at which words shée immediatly flew away: whereupon <hi>Tarlton</hi> spake merrily in a Rime, as followeth:</p>
+               <lg>
+                  <l>Whether a Daw sit, or whether a Daw flie,</l>
+                  <l>Whether a Daw stand, or whether a Daw lie,</l>
+                  <l>Whether a daw creeke, or whether a Daw crie,</l>
+                  <l>In what case soeuer a Daw perseuer.</l>
+                  <l>A Daw is a Daw, and a Daw shall be euer.</l>
+               </lg>
+            </div>
+            <div type="jest">
+               <head>How a poore Beggerman ouer-reached <hi>Tarlton</hi> by his wit.</head>
+               <p>AS <hi>Tarlton</hi> vpon a day sate at his owne doore, to whom came a poore old man, &amp; begged a penny for the Lords sake, wherupon <hi>Tarlton</hi> hauing no single money about him, askt the begger what money he had, no more money master but one single penny. <hi>Tarlton</hi> being merrily disposed, called for this penny, and hauing receiued it, gaue it to his boy to fetch a pot of Ale, whereat▪ the Begger grew blancke, and began to gather vp his wits how to get it againe: the pot of Ale for the Beggers penny being brought, he proferred to
+<pb facs="tcp:176783:16"/> drinke to the begger: nay stay awhile Master, quoth the begger, the vse is where I was borne, that he that paies for the drinke, must drinke first: thou saist well quoth <hi>Tarlton,</hi> goe to, Drinke to me then: Whereupon the Begger tooke the Pot, saying, here Master I drinke to you, (and there<g ref="char:EOLhyphen"/>withall dranke off euery droppe) now Maister, if you will pledge me, send for it as I haue done: <hi>Tarlton</hi> séeing him<g ref="char:EOLhyphen"/>selfe so ouer-reacht, greatly commended the Beggers wit, and withall in recompence thereof, gaue him a Teastor: with that the Begger said, that he would most truely pray to God for him: no answered <hi>Tarlton,</hi> I pray thée pray for thy selfe, for I take no vsury for Almes▪ déeds.</p>
+            </div>
+            <div type="jest">
+               <head>Of <hi>Tarltons</hi> pleasant answere to a Gallant, by the high-way side.</head>
+               <p>IT was <hi>Tarltons</hi> occasion another time to ride into Suf<g ref="char:EOLhyphen"/>folke, being furnished with a very leane large horse: and by the way a lustie gallant met him, and in mockage, asked him, what a yard of his horse was worth? marry sit, quoth <hi>Tarlton,</hi> I pray you alight and lift vp my horses taile, and they in that shop will tell you the price of a yard.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> would haue drowned his wife.</head>
+               <p>VPon a time, <hi>Tarlton</hi> and his wife (as passengers) came sailing from Southampton towards London, a migh<g ref="char:EOLhyphen"/>tie storme arose, and endangered the Ship, whereupon the Captaine thereof, charged euery man to throw into the sea the heauiest thing he could best spare, to the end to lighten somewhat the Ship: <hi>Tarlton,</hi> that had his wife there, offe<g ref="char:EOLhyphen"/>red to throw her ouer-board, but the company rescued her, and being asked wherefore he meant so to do? he answered shée was the heauiest thing I haue, and I can best spare her.</p>
+            </div>
+            <div type="jest">
+               <pb facs="tcp:176783:16"/>
+               <head>How <hi>Tarlton</hi> made his Will and Testament.</head>
+               <p>OF late there was a Gentleman liuing in England, that wheresoeuer he dined, would of euery dish conuey a modicum thereof into his Gownesléeue: which Gentle<g ref="char:EOLhyphen"/>man being vpon a time at dinner at a Gentlemans house in the Country, there he vsed his aforesaid quality, in the cōpa<g ref="char:EOLhyphen"/>ny of M. <hi>Tarlton,</hi> who perceiuing it, said thus vnto the com<g ref="char:EOLhyphen"/>pany: My masters, I am now determined before you all, to make my last Will and Testament: and first, I bequeath my soule to God my creator, and my body to be buried in the sléeue of yonder Gentlemans Gowne: and with that stepping to him, he turned vp the Gowne sléeue, whereout here dropt a bird, and there a bird, with choise of much other good chéere, hée still shaking it, saying, I meant this sléeue Gentleman, this sléeue I meant.</p>
+            </div>
+            <div type="jest">
+               <head>How <hi>Tarlton</hi> called a Gentleman Knaue by craft.</head>
+               <p>VVIthin a while after, as the same Gentleman and <hi>Tarlton</hi> passed through a fielde together, a Crow in a Trée cryed, kaw, kaw: sée yonder <hi>Tarlton,</hi> quoth the Gentleman, yonder Crow calleth thée knaue: no sir (he an<g ref="char:EOLhyphen"/>swered) he beckens to your worship as the better man.</p>
+            </div>
+            <div type="jest">
+               <head>
+                  <hi>Tarltons</hi> Iest of a Country▪ wench.</head>
+               <p>
+                  <hi>TArlton</hi> going towards Hogsdon, met a Country maid comming to market, her Mare stumbling down she fell ouer and ouer, shewing all that euer God sent her, and then rising vp againe, she turned her round about vnto Master <hi>Tarlton,</hi> and said, Gods body sir, did you euer sée the like before? No in good sooth, quoth <hi>Tarlton,</hi> neuer but once in London.</p>
+            </div>
+            <div type="jest">
+               <pb facs="tcp:176783:17"/>
+               <head>How <hi>Tarlton</hi> deceiued an Inne-holder at Sandwich.</head>
+               <p>VPon a time when the Plaiers were put to silence, <hi>Tarl<g ref="char:EOLhyphen"/>ton</hi> and his boy frolickt so long in the Country, that all their money was gone, and being a great way from Lon<g ref="char:EOLhyphen"/>don, they knew not what to doe; but as want is the whet<g ref="char:EOLhyphen"/>stone of wit, <hi>Tarlton</hi> gathereth his conceit together, and practised a tricke to beare him vp to London without mo<g ref="char:EOLhyphen"/>ney, &amp; thus it was: Vnto an Inne in Sandwich they went, and there lay for two daies at great charge, although he had no money to pay for the same: the third morning he bad his man go downe and male-content himselfe before his Hoast and his Hoastesse, &amp; mumbling say to himselfe, Lord▪ Lord, what a scalde master doe I serue, this it is to serue such Se<g ref="char:EOLhyphen"/>minary Priests and Iesuits, now euen as I am an honest boy, Ile leaue him in the lurch, and shift for my selfe: here's a doe about penance and mortification, as though (forsooth) Christ hath not died enough for all: The boy mumbled out these his instructions so dissembling, that it strooke a iea<g ref="char:EOLhyphen"/>lousie in the Inne-holders heart, that out of doubt his ma<g ref="char:EOLhyphen"/>ster was a Seminary Priest; whereupon he presently sent for the Constable, and told him all the foresaid matter, and so went vp both together to attach <hi>Tarlton</hi> in his chamber, who purposely had shut himselfe close in, and betaken him to his knées, and to his crosses, to make the matter séeme more suspitious, which they espying through the Key-hole, made no more adoe, but in they rushed, and arrested him for a Seminary Priest, discharged his score, bore his, and his boyes charges vp to London, and there in hope to haue rich rewards, presented him to M. <hi>Fleetwood,</hi> the old Recorder of London: but now marke the Iest; when the Recorder saw <hi>Tarlton,</hi> and knew him passing well, entertained him very courteously, and all to be foold the Inne-holder and his mate, and sent them away with fleas in their eares: but when <hi>Tarlton</hi> saw himselfe discharged out of their hands, <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
